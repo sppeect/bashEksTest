@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w9Df1w578dkc6DI7Ys4ZQEG12b+zWk99cUrGso9Oqf9qBt/TGKYbMAoQBkBwoP9WS+oeVZ9uz91EOAalmF3lVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcelo\\Desktop\\Nova pasta (3)\\TestEKS\\TestEKS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcelo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
